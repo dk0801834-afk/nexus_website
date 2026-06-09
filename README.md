@@ -23,7 +23,7 @@ git clone [https://github.com/dk0801834-afk/nexus_website.git](https://github.co
 cd nexus_website
 
 ##Install the required dependencies:
-**pip install -r requirements.txt**
+pip install -r requirements.txt
 
 ## Run the application
-**python app.py**
+python app.py
